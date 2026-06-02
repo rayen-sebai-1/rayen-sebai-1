@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
-I am a 4th-year DATA Engineering Student at ESPRIT, specializing in **Data Analytics for Telecom**. I have a strong passion for **Artificial Intelligence, Agentic Systems, and Next-Generation Networks (5G)**. My focus lies in leveraging intelligent automation and bringing AI to real-world applications, from network optimization to machine learning pipelines.
+I am a 4th-year DATA Engineering Student at ESPRIT. I have a strong passion for **Artificial Intelligence, Agentic Systems, and Next-Generation Networks (5G)**. My focus lies in leveraging intelligent automation and bringing AI to real-world applications, from network optimization to machine learning pipelines.
 
 ---
 
@@ -19,13 +19,14 @@ I am a 4th-year DATA Engineering Student at ESPRIT, specializing in **Data Analy
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
 - **Concepts:** Machine Learning, Deep Learning, Generative AI, LLMs, NLP, Agentic AI, MLOps, AIOps, CRISP-DM
-- **Specialized Frameworks:** LangChain, LangGraph
 
 ### 💻 Programming Languages
 <p>
@@ -63,7 +64,7 @@ I am a 4th-year DATA Engineering Student at ESPRIT, specializing in **Data Analy
 ## 🚀 Featured Projects & Research
 
 ### 🌌 Orion | AI-Driven Telecom Network Copilot
-- **Tech Stack:** Python, LangChain, FastAPI, Redis, Kafka, InfluxDB, Docker, ML/DL, X-AI
+- **Tech Stack:** Python, LangChain, LangGraph, FastAPI, Redis, Kafka, InfluxDB, Docker, ML/DL, X-AI
 - Developed Agentic AI solutions utilizing LangChain to provide network operators with root-cause analysis and recommendations.
 - Simulated real-time telemetry streaming across Core, Edge, and RAN network layers.
 - Built complete MLOps pipelines and deployed Deep Learning models for network slicing prediction, congestion forecasting, and SLAs.
@@ -91,12 +92,10 @@ I am a 4th-year DATA Engineering Student at ESPRIT, specializing in **Data Analy
 ---
 
 ## 📜 Certifications
-- **NVIDIA DLI:** 
-  - Building LLM Applications with Prompt Engineering 
+- **NVIDIA DLI:** - Building LLM Applications with Prompt Engineering 
   - Getting Started with Deep Learning 
   - Intro to Transformer-Based Natural Language Processing
-- **IBM:** 
-  - Generative AI & LLMs: Architecture and Data Preparation 
+- **IBM:** - Generative AI & LLMs: Architecture and Data Preparation 
   - Deep Learning & Neural Networks with Keras 
   - Machine Learning with Python
 
