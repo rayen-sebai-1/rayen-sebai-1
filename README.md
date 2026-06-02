@@ -40,12 +40,14 @@ I am a 4th-year DATA Engineering Student at ESPRIT. I have a strong passion for 
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
-- **Other Technologies:** Spring Boot, SQL, InfluxDB
+- **Other Technologies:** SQL, InfluxDB
 
 ### ⚙️ Tools, DevOps & Architecture
 <p>
@@ -79,15 +81,6 @@ I am a 4th-year DATA Engineering Student at ESPRIT. I have a strong passion for 
 - **Tech Stack:** Node.js, Express.js, Docker, Microservices Architecture
 - Designed and built a microservices-based backend system for healthcare management.
 - Implemented automated medication stock management featuring real-time in-app and email alert notifications.
-
----
-
-## 💼 Experience
-
-### Data Intern | Union Internationale des Banques (UIB)
-- Analyzed Tunisia's telecompensation system, significantly improving the understanding of banking transaction flows.
-- Executed Oracle DB administration, including session management and advanced lock handling.
-- Successfully configured and installed the Oracle ora-19c environment.
 
 ---
 
