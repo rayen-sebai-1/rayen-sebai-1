@@ -63,27 +63,6 @@ I am a 4th-year DATA Engineering Student at ESPRIT. I have a strong passion for 
 
 ---
 
-## 🚀 Featured Projects & Research
-
-### 🌌 Orion | AI-Driven Telecom Network Copilot
-- **Tech Stack:** Python, LangChain, LangGraph, FastAPI, Redis, Kafka, InfluxDB, Docker, ML/DL, X-AI
-- Developed Agentic AI solutions utilizing LangChain to provide network operators with root-cause analysis and recommendations.
-- Simulated real-time telemetry streaming across Core, Edge, and RAN network layers.
-- Built complete MLOps pipelines and deployed Deep Learning models for network slicing prediction, congestion forecasting, and SLAs.
-
-### 🛡️ Intrusion Detection using Machine Learning (Research)
-- **Tech Stack:** Scikit-learn, Pandas, Group DRO
-- Processed the UNSW-NB15 dataset using robust feature selection and preprocessing techniques.
-- Implemented and evaluated sophisticated ML models (XGBoost, Random Forest, Logistic Regression) using Grid Search and Optimizers.
-- Experimented with Group DRO to optimize worst-class performance.
-
-### 🏥 HealthPlus | Hospital Management Platform
-- **Tech Stack:** Node.js, Express.js, Docker, Microservices Architecture
-- Designed and built a microservices-based backend system for healthcare management.
-- Implemented automated medication stock management featuring real-time in-app and email alert notifications.
-
----
-
 ## 📜 Certifications
 - **NVIDIA DLI:** - Building LLM Applications with Prompt Engineering 
   - Getting Started with Deep Learning 
