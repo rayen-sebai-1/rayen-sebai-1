@@ -9,26 +9,54 @@
 ---
 
 ## 👨‍💻 About Me
-I am a 4th-year Data Engineering Student at ESPRIT, specializing in **Data Analytics for Telecom**. I have a strong passion for **Artificial Intelligence, Agentic Systems, and Next-Generation Networks (5G)**. My focus lies in leveraging intelligent automation and bringing AI to real-world applications, from network optimization to machine learning pipelines.
+I am a 4th-year DATA Engineering Student at ESPRIT, specializing in **Data Analytics for Telecom**. I have a strong passion for **Artificial Intelligence, Agentic Systems, and Next-Generation Networks (5G)**. My focus lies in leveraging intelligent automation and bringing AI to real-world applications, from network optimization to machine learning pipelines.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 ### 🤖 Artificial Intelligence & Data Science
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
 - **Concepts:** Machine Learning, Deep Learning, Generative AI, LLMs, NLP, Agentic AI, MLOps, AIOps, CRISP-DM
-- **Frameworks & Libraries:** TensorFlow (Keras), PyTorch, LangChain, LangGraph, Scikit-Learn, Pandas, NumPy
+- **Specialized Frameworks:** LangChain, LangGraph
 
-### 💻 Programming Languages & Databases
-- **Languages:** Python, Java, JavaScript
-- **Databases:** SQL, MongoDB, InfluxDB, Redis
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-### 🌐 Frameworks & Backend
-- FastAPI, Node.js, Express.js, Spring Boot, React
+### 🌐 Frameworks, Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+- **Other Technologies:** Spring Boot, SQL, InfluxDB
 
 ### ⚙️ Tools, DevOps & Architecture
-- **DevOps:** Docker, Kubernetes, Jenkins, Git, Linux, CI/CD
-- **Architecture & Messaging:** Microservices, Kafka, Agile/Scrum
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+- **Methodologies:** CI/CD, Microservices, Agile/Scrum
 
 ---
 
@@ -63,10 +91,12 @@ I am a 4th-year Data Engineering Student at ESPRIT, specializing in **Data Analy
 ---
 
 ## 📜 Certifications
-- **NVIDIA DLI:** - Building LLM Applications with Prompt Engineering 
+- **NVIDIA DLI:** 
+  - Building LLM Applications with Prompt Engineering 
   - Getting Started with Deep Learning 
   - Intro to Transformer-Based Natural Language Processing
-- **IBM:** - Generative AI & LLMs: Architecture and Data Preparation 
+- **IBM:** 
+  - Generative AI & LLMs: Architecture and Data Preparation 
   - Deep Learning & Neural Networks with Keras 
   - Machine Learning with Python
 
